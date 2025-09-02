@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 span {
+    font-family:'Times New Roman', Times, serif;
+}
+
+header {
+    width: 50rem;
+}
+
+p{
+    color: white;
+    font-size: 50px;
+
+}
+footer {
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    max-width: 50rem;
+
+}
+
+footer p {
+    font-size: 40px;
+
+}
